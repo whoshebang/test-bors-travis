@@ -1,0 +1,7 @@
+[package]
+name = "test-bors-travis"
+version = "0.1.0"
+authors = ["kaikai1024 <kaikaifeng1024@gmail.com>"]
+edition = "2018"
+
+[dependencies]
